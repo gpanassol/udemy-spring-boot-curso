@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5abc868-955a-4450-979e-a84e0427bade" name="Default Changelist" comment="" />
+    <list default="true" id="d5abc868-955a-4450-979e-a84e0427bade" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vendas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/gpanassol/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/gpanassol/AnimalConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/gpanassol/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/gpanassol/DevelopmentConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/gpanassol/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/gpanassol/VendasApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/gpanassol/config/MinhaConfiguracao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-development.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-production.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/github/gpanassol/VendasApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/github/gpanassol/VendasApplication.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,28 +28,41 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="jdkForImporter" value="11" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1ZosNtEJPWVjMw9MEo6i9Foc01U" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="io.github.gpanassol" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="VendasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -67,21 +98,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1320" height="107" key="GridCell.Tab.0.bottom" timestamp="1585517788298">
+    <state x="1275" y="325" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585667340062">
       <screen x="1024" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="107" key="GridCell.Tab.0.bottom/1024.0.1366.768/0.27.1024.741@1024.0.1366.768" timestamp="1585517788298" />
-    <state width="1320" height="107" key="GridCell.Tab.0.center" timestamp="1585517788298">
+    <state x="1275" y="325" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1024.0.1366.768/0.27.1024.741@1024.0.1366.768" timestamp="1585667340062" />
+    <state x="1460" y="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1585667352238">
       <screen x="1024" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="107" key="GridCell.Tab.0.center/1024.0.1366.768/0.27.1024.741@1024.0.1366.768" timestamp="1585517788298" />
-    <state width="1320" height="107" key="GridCell.Tab.0.left" timestamp="1585517788298">
+    <state x="1460" y="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/1024.0.1366.768/0.27.1024.741@1024.0.1366.768" timestamp="1585667352238" />
+    <state x="349" y="177" width="374" height="466" key="FileChooserDialogImpl" timestamp="1585832029423">
+      <screen x="0" y="27" width="1024" height="741" />
+    </state>
+    <state x="349" y="177" width="374" height="466" key="FileChooserDialogImpl/1024.0.1366.768/0.27.1024.741@0.27.1024.741" timestamp="1585832029423" />
+    <state x="1490" y="155" width="424" height="482" key="FileChooserDialogImpl/1024.0.1366.768/0.27.1024.741@1024.0.1366.768" timestamp="1585659456891" />
+    <state width="1320" height="560" key="GridCell.Tab.0.bottom" timestamp="1586455930109">
       <screen x="1024" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="107" key="GridCell.Tab.0.left/1024.0.1366.768/0.27.1024.741@1024.0.1366.768" timestamp="1585517788298" />
-    <state width="1320" height="107" key="GridCell.Tab.0.right" timestamp="1585517788298">
+    <state width="1320" height="560" key="GridCell.Tab.0.bottom/1024.0.1366.768/0.27.1024.741@1024.0.1366.768" timestamp="1586455930109" />
+    <state width="1320" height="560" key="GridCell.Tab.0.center" timestamp="1586455930109">
       <screen x="1024" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="107" key="GridCell.Tab.0.right/1024.0.1366.768/0.27.1024.741@1024.0.1366.768" timestamp="1585517788298" />
+    <state width="1320" height="560" key="GridCell.Tab.0.center/1024.0.1366.768/0.27.1024.741@1024.0.1366.768" timestamp="1586455930109" />
+    <state width="1320" height="560" key="GridCell.Tab.0.left" timestamp="1586455930109">
+      <screen x="1024" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="560" key="GridCell.Tab.0.left/1024.0.1366.768/0.27.1024.741@1024.0.1366.768" timestamp="1586455930109" />
+    <state width="1320" height="560" key="GridCell.Tab.0.right" timestamp="1586455930109">
+      <screen x="1024" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="560" key="GridCell.Tab.0.right/1024.0.1366.768/0.27.1024.741@1024.0.1366.768" timestamp="1586455930109" />
   </component>
 </project>
